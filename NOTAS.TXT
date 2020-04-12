@@ -1,0 +1,5 @@
+Tengo un error en el modulo /utils/geocode, que impide comprobar si existe un fallo en la petición
+
+"body.features.length" por este motivo el servidor termina de golpe.
+
+
